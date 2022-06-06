@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Array Rotation", "04. A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Top Integers", "05. Top Integers\05. Top Integers.csproj", "{7CED026B-0BE1-488A-AC4B-9BBC7837C866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Equal Sum", "06. Equal Sum\06. Equal Sum.csproj", "{3BDC892E-B885-452F-902C-EDF9DD289B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Equal Sum", "06. Equal Sum\06. Equal Sum.csproj", "{3BDC892E-B885-452F-902C-EDF9DD289B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{950E8BB8-A4A4-4E29-AAD8-73D07DDE9156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{950E8BB8-A4A4-4E29-AAD8-73D07DDE9156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{10B1F35B-3B2C-49D7-8DC7-9EDFC367182E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{10B1F35B-3B2C-49D7-8DC7-9EDFC367182E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Kamino Factory", "09. Kamino Factory\09. Kamino Factory.csproj", "{C11FC66A-53DA-46D5-9D93-EFF63F8BBF2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Kamino Factory", "09. Kamino Factory\09. Kamino Factory.csproj", "{C11FC66A-53DA-46D5-9D93-EFF63F8BBF2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LadyBugs", "10. LadyBugs\10. LadyBugs.csproj", "{69BD3571-E5E9-49AA-ACA6-36166831DC66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C11FC66A-53DA-46D5-9D93-EFF63F8BBF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11FC66A-53DA-46D5-9D93-EFF63F8BBF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11FC66A-53DA-46D5-9D93-EFF63F8BBF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BD3571-E5E9-49AA-ACA6-36166831DC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BD3571-E5E9-49AA-ACA6-36166831DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BD3571-E5E9-49AA-ACA6-36166831DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BD3571-E5E9-49AA-ACA6-36166831DC66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
