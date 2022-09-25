@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{D80FFE04-F806-4D02-B8B2-D4CA325B3778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{ED620A89-EC08-488A-A4DF-C27FF0B77466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{7410CF21-06E9-4858-BF04-1B2AA50F507D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80FFE04-F806-4D02-B8B2-D4CA325B3778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80FFE04-F806-4D02-B8B2-D4CA325B3778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80FFE04-F806-4D02-B8B2-D4CA325B3778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80FFE04-F806-4D02-B8B2-D4CA325B3778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED620A89-EC08-488A-A4DF-C27FF0B77466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED620A89-EC08-488A-A4DF-C27FF0B77466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED620A89-EC08-488A-A4DF-C27FF0B77466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED620A89-EC08-488A-A4DF-C27FF0B77466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7410CF21-06E9-4858-BF04-1B2AA50F507D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7410CF21-06E9-4858-BF04-1B2AA50F507D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7410CF21-06E9-4858-BF04-1B2AA50F507D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7410CF21-06E9-4858-BF04-1B2AA50F507D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FACBFFA-DBC8-4E0C-852C-22D7B016193A}
+	EndGlobalSection
+EndGlobal
